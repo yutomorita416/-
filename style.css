@@ -55,7 +55,6 @@ footer {
   background-color: #aaa;
   height: 50px;
 }
-
 @media screen and (max-width:768px) {
 header {
   width: 100%;
